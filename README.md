@@ -1,6 +1,7 @@
 # Hi 👋 I'm Anish
 
-💻 **Full-Stack Developer (Aspiring)**
+💻 **Full-Stack Developer (Aspiring)** 
+
 🚀 Passionate about building modern web applications and learning scalable backend systems.
 
 ---
@@ -57,10 +58,10 @@
 A responsive task management application built using **HTML, CSS, and JavaScript** with task filtering, dark/light mode, and LocalStorage persistence.
 
 🔗 Live Demo
-https://anish-d1.github.io/todo-list/
+[Live To-Do List](https://anish-d1.github.io/Simple-To-Do-List/)
 
 🔗 Repository
-https://github.com/Anish-D1/todo-list
+[To-Do Repo](https://github.com/Anish-D1/Simple-To-Do-List)
 
 ---
 
@@ -75,7 +76,11 @@ Features:
 * Database storage
   
 🔗 Live Demo
-* [View Student-Management-System](https://student-management-system-seven-ruby.vercel.app/)
+[View Student-Management-System](https://student-management-system-seven-ruby.vercel.app/)
+
+🔗 Repository
+[Student-Management-System Repo](https://github.com/Anish-D1/Simple-To-Do-List)
+  
 
 ---
 
