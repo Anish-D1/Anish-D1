@@ -79,7 +79,7 @@ Features:
 [View Student-Management-System](https://student-management-system-seven-ruby.vercel.app/)
 
 🔗 Repository
-[Student-Management-System Repo](https://github.com/Anish-D1/Simple-To-Do-List)
+[Student-Management-System Repo]([https://github.com/Anish-D1/Simple-To-Do-List](https://github.com/Anish-D1/student-management-system))
   
 
 ---
