@@ -108,14 +108,6 @@ A full-stack CRUD application developed to manage user information through a Rea
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](...)
-
-![Top Languages](...)
-
----
-
 ## 🤝 Connect With Me
 
 I'm interested in entry-level opportunities in Java Development, Backend Development, and Full-Stack Development.
